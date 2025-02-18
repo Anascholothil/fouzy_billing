@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "374575946310",
+    "firebase_url": "https://fouzy-381c6-default-rtdb.firebaseio.com",
+    "project_id": "fouzy-381c6",
+    "storage_bucket": "fouzy-381c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374575946310:android:1e04935bf41360d8458847",
+        "android_client_info": {
+          "package_name": "com.example.fouzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwonLzDyhK4hCYhzOA2d7L4ZUWBWERkZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374575946310:android:d62eecdb6212a364458847",
+        "android_client_info": {
+          "package_name": "com.example.fouzy_billing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwonLzDyhK4hCYhzOA2d7L4ZUWBWERkZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
