@@ -11,6 +11,7 @@ import 'package:fouzy_billing/features/orders/presentation/view/orders_screen.da
 import 'package:fouzy_billing/features/sales/presentation/view/sales_screen.dart';
 import 'package:fouzy_billing/general/services/url_launcher_service.dart';
 import 'package:fouzy_billing/general/utils/app_colors.dart';
+import 'package:fouzy_billing/general/utils/app_images.dart';
 
 class BottomNavBar extends StatelessWidget {
   const BottomNavBar({super.key});
@@ -58,7 +59,7 @@ class MenuScreen extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  Image.asset("assets/ic_launcher.png"),
+                  Image.asset(AppImages.appLogo),
                   Text(
                     "Fouzy AvilMilk",
                     style: TextStyle(
